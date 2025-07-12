@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "sparseCov"]
 	path = sparseCov
-	url = https://github.com/chexjiang/sparsecov
+	url = https://github.com/cran/sparseCov
